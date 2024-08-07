@@ -4,9 +4,9 @@ const menu = [
     { name: "Hawaiian", price: 10 },
     { name: "Veggie", price: 9 },
 ]
-
+let ordercom =[]
 let cashInRegister = 100
-const orderQueue = []
+let orderQueue = []
 
 
 let nextOrderId = 1
@@ -27,7 +27,7 @@ addNewPizza({name : "chicken" , price : 90})
 placeOrder('Veggie');
 placeOrder('Pepperoni')
 placeOrder('chicken')
-orderQueue.forEach(menu => console.log(menu));
+
 
 /**
  * Challenge: write another utility function, completeOrder, that takes an orderId as a parameter
@@ -37,3 +37,10 @@ orderQueue.forEach(menu => console.log(menu));
  * Note: you'll need to ensure that we're adding IDs to our orders when we create new orders. You can use a global `nextOrderId` variable and increment it every time a new order is created to simulate real IDs being managed for us by a database.
  */
 
+const completeOrder = (orderId) =>{
+     orderQueue = orderQueue.filter(order => order.id !== orderId)
+   
+
+}
+completeOrder(3)
+orderQueue.forEach(ok => console.log(ok))
