@@ -1,6 +1,4 @@
-Certainly! Here's a sample README for a project that includes coding GIFs and a description of your learning journey with TypeScript (TS):
 
----
 
 # My TypeScript Learning Journey
 
@@ -43,19 +41,6 @@ Here are some coding GIFs that illustrate my learning process:
 
 ![Creating Classes](https://media.giphy.com/media/1eEHJa4s9xN3pWNZqr/giphy.gif)
 
-## Projects
-
-Here are some of the projects I am working on:
-
-### Project 1: To-Do List App
-
-A simple to-do list application built with TypeScript and React.
-
-### Project 2: TypeScript Basics
-
-A collection of code snippets and examples demonstrating TypeScript basics.
-
-### Project 3: Advanced TypeScript Features
 
 Exploring advanced TypeScript features such as generics, decorators, and more.
 
@@ -71,6 +56,4 @@ I would love to hear from you! If you have any feedback, suggestions, or questio
 
 Thank you for visiting my TypeScript learning journey! Happy coding!
 
----
 
-Feel free to customize the links and add more details specific to your learning experience and projects. Let me know if you need any changes or additional sections!
