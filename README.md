@@ -4,7 +4,7 @@ Certainly! Here's a sample README for a project that includes coding GIFs and a 
 
 # My TypeScript Learning Journey
 
-![TypeScript Logo](https://www.typescriptlang.org/assets/images/branding/ts-logo-128.svg)
+
 
 Welcome to my TypeScript learning journey! This repository contains my practice projects, code snippets, and notes as I learn and explore TypeScript. I am excited to share my progress and insights with you.
 
